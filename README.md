@@ -1,9 +1,9 @@
-###in-class-1
+# in-class-1
 test repository for in-class assignment 1
 
 This README contains the instructions for completing your first individual assignment using git inside the Systems Programming S19 class.
 
-##Instructions:
+## Instructions:
 1. You'll clone this repository to your machine. When cloning, choose a folder structure like this: <some_base_dir>/cs3410/lectures/lecture1/
 2. Inside the cloned directory, you'll create a myFile.md file using a text editor (note that the extension is ".md". If you can't do it, make a myFile.txt file).
 3. Inside the myFile.md file, you'll add the following information: a. your name b. your favorite movie
